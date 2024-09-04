@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|c:\\users\\pablo g\\desktop\\septimo semestre\\analisis de sistema i\\prueba\\clinica_medica.api\\clinica_medica.api\\controllers\\cli_medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|solutionrelative:clinica_medica.api\\controllers\\cli_medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|c:\\users\\pablo g\\desktop\\septimo semestre\\analisis de sistema i\\prueba\\clinica_medica.api\\clinica_medica.api\\context\\bdclinicamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|solutionrelative:clinica_medica.api\\context\\bdclinicamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|c:\\users\\pablo g\\desktop\\septimo semestre\\analisis de sistema i\\prueba\\clinica_medica.api\\clinica_medica.api\\modelo\\cli_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|solutionrelative:clinica_medica.api\\modelo\\cli_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|c:\\users\\pablo g\\desktop\\septimo semestre\\analisis de sistema i\\prueba\\clinica_medica.api\\clinica_medica.api\\controllers\\cli_usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1265643-4CF9-4B2F-A18A-F34FFF20B7C5}|Clinica_Medica.API\\Clinica_Medica.API.csproj|solutionrelative:clinica_medica.api\\controllers\\cli_usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BDCLinicaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Context\\BDCLinicaMedica.cs",
+              "RelativeDocumentMoniker": "Clinica_Medica.API\\Context\\BDCLinicaMedica.cs",
+              "ToolTip": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Context\\BDCLinicaMedica.cs",
+              "RelativeToolTip": "Clinica_Medica.API\\Context\\BDCLinicaMedica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:26:17.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLI_MEDICOSController.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Controllers\\CLI_MEDICOSController.cs",
+              "RelativeDocumentMoniker": "Clinica_Medica.API\\Controllers\\CLI_MEDICOSController.cs",
+              "ToolTip": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Controllers\\CLI_MEDICOSController.cs",
+              "RelativeToolTip": "Clinica_Medica.API\\Controllers\\CLI_MEDICOSController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADgv2EAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:26:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CLI_USUARIO.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Modelo\\CLI_USUARIO.cs",
+              "RelativeDocumentMoniker": "Clinica_Medica.API\\Modelo\\CLI_USUARIO.cs",
+              "ToolTip": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Modelo\\CLI_USUARIO.cs",
+              "RelativeToolTip": "Clinica_Medica.API\\Modelo\\CLI_USUARIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:09:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CLI_USUARIOController.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Controllers\\CLI_USUARIOController.cs",
+              "RelativeDocumentMoniker": "Clinica_Medica.API\\Controllers\\CLI_USUARIOController.cs",
+              "ToolTip": "C:\\Users\\Pablo G\\Desktop\\Septimo Semestre\\Analisis de Sistema I\\Prueba\\Clinica_Medica.API\\Clinica_Medica.API\\Controllers\\CLI_USUARIOController.cs",
+              "RelativeToolTip": "Clinica_Medica.API\\Controllers\\CLI_USUARIOController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwEQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:32:06.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

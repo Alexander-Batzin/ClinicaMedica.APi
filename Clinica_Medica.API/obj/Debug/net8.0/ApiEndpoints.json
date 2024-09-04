@@ -1,0 +1,270 @@
+[
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_MEDICOSController",
+    "Method": "Listar",
+    "RelativePath": "api/CLI_MEDICOS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Clinica_Medica.API.Modelo.CLI_MEDICOS, Clinica_Medica.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_MEDICOSController",
+    "Method": "Insertar",
+    "RelativePath": "api/CLI_MEDICOS",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "m",
+        "Type": "Clinica_Medica.API.Modelo.CLI_MEDICOS",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Clinica_Medica.API.Modelo.CLI_MEDICOS",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_MEDICOSController",
+    "Method": "Actualizar",
+    "RelativePath": "api/CLI_MEDICOS",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "m",
+        "Type": "Clinica_Medica.API.Modelo.CLI_MEDICOS",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Clinica_Medica.API.Modelo.CLI_MEDICOS",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_MEDICOSController",
+    "Method": "Delete",
+    "RelativePath": "api/CLI_MEDICOS",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_MEDICOSController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/CLI_MEDICOS/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Clinica_Medica.API.Modelo.CLI_MEDICOS",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_USUARIOController",
+    "Method": "Listar",
+    "RelativePath": "api/CLI_USUARIO",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Clinica_Medica.API.Modelo.CLI_USUARIO, Clinica_Medica.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_USUARIOController",
+    "Method": "Insertar",
+    "RelativePath": "api/CLI_USUARIO",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "Clinica_Medica.API.Modelo.CLI_USUARIO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Clinica_Medica.API.Modelo.CLI_USUARIO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_USUARIOController",
+    "Method": "Actualizar",
+    "RelativePath": "api/CLI_USUARIO",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "Clinica_Medica.API.Modelo.CLI_USUARIO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Clinica_Medica.API.Modelo.CLI_USUARIO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_USUARIOController",
+    "Method": "Delete",
+    "RelativePath": "api/CLI_USUARIO",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.CLI_USUARIOController",
+    "Method": "BuscarPorID",
+    "RelativePath": "api/CLI_USUARIO/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Clinica_Medica.API.Modelo.CLI_USUARIO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinica_Medica.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Clinica_Medica.API.WeatherForecast, Clinica_Medica.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
